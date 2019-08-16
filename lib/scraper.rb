@@ -43,5 +43,5 @@ doc.css('.student-card').each do |students|
       student[:profile_quote] = doc.css('.profile-quote').text
     student
     end
-
   end
+end
