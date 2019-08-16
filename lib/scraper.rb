@@ -24,4 +24,4 @@ doc.css('.student-card').each do |students|
 
   end
 
-end
+
